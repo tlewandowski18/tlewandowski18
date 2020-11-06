@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center"> Hello, I'm Tom Lewandowski 👨‍💻 # </h1>
+<h3 align="center"> Web Developer </h3>
 
-<!--
-**tlewandowski18/tlewandowski18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/tomlewandowski1/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Tom_Lewandowski-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tomlewandowski1/"></a>
+<a href="https://twitter.com/ThomasMLewando1"><img alt="Twitter" src="https://img.shields.io/badge/-Tom_Lewandowski-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/ThomasMLewando1"></a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤔 About
+- Working : Web Development 💻 
+- Learning : Full-Stack ⚡
+- Hobbies :Golf 🏌️‍♂️ | Hiking 🥾
+- Ask me about : Anything!, I'm happy to help ✌️
+- Fun fact : I like to solve a Rubik's cube while working out coding issues
+- Pronouns : He/Him/His 😇
